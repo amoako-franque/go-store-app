@@ -1,6 +1,4 @@
-## APP Documentation
-
-# how to start the app
+export {CreateConfirmationToken} from '@stripe/stripe-js/dist/api'
 - cd into go tutorial
 - run `go run main.go`  to start the server
 - cd into client

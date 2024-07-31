@@ -1,0 +1,13 @@
+export { default } from '@mui/material/Dialog/Dialog'
+export * from '@mui/material/Dialog/Dialog'
+
+export { default as dialogClasses } from '@mui/material/Dialog/dialogClasses'
+export * from '@mui/material/Dialog/dialogClasses'
+
+export * from '@mui/system/styleFunctionSx/extendSxProp'
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
